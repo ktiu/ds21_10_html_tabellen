@@ -1,0 +1,15 @@
+---
+title: HTML-Tabellen
+date: 25. Januar 2021
+---
+
+## Vorbereitung
+
+## Datenbeschaffung
+
+## Datenformatierung
+
+## Datenaufbereitung
+
+## Datenvisualisierung
+

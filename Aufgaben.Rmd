@@ -1,0 +1,25 @@
+---
+title: Aufgaben
+date: 25. Januar 2021
+---
+
+## Aufgaben
+
+1. Importieren Sie die Daten zu den [tödlichen Erdbeben auf Wikipedia](https://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900)
+und formen sie diese zu einem tibble um.
+
+```{r}
+
+```
+
+2. Erstellen Sie mit den erhaltenen Daten eine Karte, welche die Lage und die Stärke der Erdbeben angibt:
+
+```{r}
+
+```
+
+3. Wandeln Sie den Erdbeben-Datensatz in das Simple Features Format um. Laden Sie zusätzlich eine Weltkarte mit dem Paket `rnaturalearth` und wandeln Sie auch diese in Simple Features um. Finden Sie außerdem einen Geodatensatz zu tektonischen Platten. Visualiseren Sie alles auf einer Welktarte (Projektion: Gall-Peters).
+
+```{r}
+
+```
